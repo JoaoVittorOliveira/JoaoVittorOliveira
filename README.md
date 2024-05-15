@@ -11,7 +11,7 @@
 
 ## 🚀 Skills em desenvolvimento 
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
+<code><img height="32" src="https://camo.githubusercontent.com/973913d161ca9ac03d1e941e3c0a9785dd928059a48274ed2b3ff564b5c564b2/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="Java"></code>
 <code><img height="32" src="https://github.com/github/explore/raw/main/topics/quarkus/quarkus.png" alt="Quarkus"></code>
 <code><img height="32" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png" alt="MySQL"></code>
 <code><img height="32" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
