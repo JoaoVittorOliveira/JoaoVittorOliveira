@@ -32,6 +32,6 @@
   <a href="https://api.whatsapp.com/send?phone=5563999686767&text=Oi%20tudo%20bem?%20Cheguei%20pelo%20seu%20perfil%20do%20github!" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 
-  <a href="https://www.instagram.com/gigante.jv/" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/joaovittor.ocl/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white"/></a>
 </p>
